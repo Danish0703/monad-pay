@@ -1,0 +1,3 @@
+[submodule "monadPulse/monadpulse-bets"]
+	path = monadPulse/monadpulse-bets
+	url = https://github.com/Danish0703/monadpulse-bets.git
